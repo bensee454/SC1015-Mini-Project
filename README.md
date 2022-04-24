@@ -3,9 +3,9 @@
 Mini Project For Sc1015 Regarding Heart Disease And Prediction Dataset
 
 # Contributor
-@bensee454
-@halterdevil
-@LsEkOy
+@ bensee454
+@ halterdevil
+@ LsEkOy
 # Problem Definition
 How can people reduce their risk or exposure towards heart disease?
 How different variable affect getting Heart Disease?
