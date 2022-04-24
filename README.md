@@ -3,7 +3,7 @@
 Mini Project For Sc1015 Regarding Heart Disease And Prediction Dataset
 
 # Contributor
-dddd
+
 # Problem Definition
 
 
