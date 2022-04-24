@@ -3,9 +3,9 @@
 Mini Project For Sc1015 Regarding Heart Disease And Prediction Dataset
 
 # Contributor
-1. @bensee454
-2. @halterdevil
-3. @LsEkOy
+1. @bensee454 - Logisitic Regression
+2. @halterdevil - Random Forest
+3. @LsEkOy - Decision Tree
 # Problem Definition
 1. How can people reduce their risk or exposure towards heart disease?
 2. How different variable affect getting Heart Disease?
@@ -30,3 +30,5 @@ Mini Project For Sc1015 Regarding Heart Disease And Prediction Dataset
 # References
 https://www.kaggle.com/code/durgancegaur/a-guide-to-any-classification-problem/notebook#Training-our-Machine-Learning-Model-:
 https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+https://github.com/nicklimmm/movie-analysis
+https://towardsdatascience.com/understanding-random-forest-58381e0602d2
